@@ -1,7 +1,9 @@
 **What are variables in JavaScript?**
+
 They are containers storing information.
 
 **What does it mean to declare a variable?**
+
 It states for the need of a variable.
 
 **What is an “assignment” operator, and what does it do?**
