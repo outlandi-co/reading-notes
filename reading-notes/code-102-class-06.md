@@ -14,4 +14,5 @@ It states for the need of a variable.
  value to multiple variables.
  
 **What is information received from the user called?**
+
 Input
