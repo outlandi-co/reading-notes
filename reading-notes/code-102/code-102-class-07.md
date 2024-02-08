@@ -3,6 +3,7 @@
 - It executes from top-down and from left-right, from the first line to the last line.1
 
 **2. What is a JavaScript function?**
+
 -It's a code snippet that can be called by other code or by itself, or a variable that refers to the function. 
 
 **3. What does it mean to invoke - or call - a function?**
