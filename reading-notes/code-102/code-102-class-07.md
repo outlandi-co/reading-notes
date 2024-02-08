@@ -4,7 +4,7 @@
 
 **2. What is a JavaScript function?**
 
--It's a code snippet that can be called by other code or by itself, or a variable that refers to the function. 
+- It's a code snippet that can be called by other code or by itself, or a variable that refers to the function. 
 
 **3. What does it mean to invoke - or call - a function?**
 - The function is a block code that is designed to perform a certain task.
