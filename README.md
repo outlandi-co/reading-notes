@@ -21,5 +21,13 @@ I am highly interested in **Full-Stack Development** as it will help enhance my 
 You can reach me here <outlandico@gmail.com> to collaborate!
 
 
+## code-102
 
-[Class 102](path/to/code-102/code-102-class-01.md)
+- [Class 01](code-102/code-102-class-01.md)
+- [Class 02](code-102/code-102-class-02.md)
+- [Class 03](code-102/code-102-class-03.md)
+- [Class 04](code-102/code-102-class-04.md)
+- [Class 05](code-102/code-102-class-05.md)
+- [Class 06](code-102/code-102-class-06.md)
+- [Class 07](code-102/code-102-class-07.md)
+- [Class 08](code-102/code-102-class-08.md)
