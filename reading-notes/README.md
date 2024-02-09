@@ -22,4 +22,4 @@ You can reach me here <outlandico@gmail.com> to collaborate!
 
 
 
-[github](https://github.com/)
+[Class 102](./code-102)
