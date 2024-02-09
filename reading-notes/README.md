@@ -22,4 +22,4 @@ You can reach me here <outlandico@gmail.com> to collaborate!
 
 
 
-[Class 102](files/code-102/code-102-class-01.md)
+[Class 102](path/to/code-102/code-102-class-01.md)
