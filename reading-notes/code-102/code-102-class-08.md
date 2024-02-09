@@ -15,4 +15,4 @@
 
 **How many times will a while loop execute?**
 
--It all depends on the specified condition set that the loop will be executed.
+- It all depends on the specified condition set that the loop will be executed.
