@@ -31,13 +31,13 @@ You can reach me here <outlandico@gmail.com> to collaborate!
 - [Class 06](code-102/code-102-class-06.md)
 - [Class 07](code-102/code-102-class-07.md)
 
-  ## Code 102 - Intro to Software Development
+## Code 102 - Intro to Software Development
   
-  ## Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
   
-  ## Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
   
-  ## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development
 
 
 
