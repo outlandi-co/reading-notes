@@ -21,7 +21,7 @@ I am highly interested in **Full-Stack Development** as it will help enhance my 
 You can reach me here <outlandico@gmail.com> to collaborate!
 
 
-## code-102
+## Code 102 - Intro to Software Development
 
 - [Class 01](code-102/code-102-class-01.md)
 - [Class 02](code-102/code-102-class-02.md)
@@ -30,4 +30,19 @@ You can reach me here <outlandico@gmail.com> to collaborate!
 - [Class 05](code-102/code-102-class-05.md)
 - [Class 06](code-102/code-102-class-06.md)
 - [Class 07](code-102/code-102-class-07.md)
+
+  ## Code 102 - Intro to Software Development
+  
+  ## Code 201 - Foundations of Software Development
+  
+  ## Code 301 - Intermediate Software Development
+  
+  ## Code 401 - Advanced Software Development
+
+
+
+
+
+
+
 - [Class 08](code-102/code-102-class-08.md)
