@@ -30,6 +30,7 @@ You can reach me here <outlandico@gmail.com> to collaborate!
 - [Class 05](code-102/code-102-class-05.md)
 - [Class 06](code-102/code-102-class-06.md)
 - [Class 07](code-102/code-102-class-07.md)
+- [Class 08](code-102/code-102-class-08.md)
 
 ## Code 102 - Intro to Software Development
   
@@ -39,10 +40,4 @@ You can reach me here <outlandico@gmail.com> to collaborate!
   
 ## Code 401 - Advanced Software Development
 
-
-
-
-
-
-
-- [Class 08](code-102/code-102-class-08.md)
+## Things I want to know more about
