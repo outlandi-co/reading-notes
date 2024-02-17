@@ -18,7 +18,7 @@ I am highly interested in **Full-Stack Development** as it will help enhance my 
 
 
 
-You can reach me here <outlandico@gmail.com> to collaborate!
+You can [email](outlandico@gmail.com) to collaborate!
 
 
 ## Code 102 - Intro to Software Development
