@@ -1,4 +1,3 @@
-
 # Growth Mindset
 ### What is "*Growth Mindset*"? 
 > In my personal opinion; it's what you have established in a mental and emotional stability. I think it is how you perceive yourself and as well as your situation with the intended destination along a path that will progress through time of successes and failures. It's the core of what and how you grow as you learn through the process. 
@@ -18,10 +17,10 @@ I am highly interested in **Full-Stack Development** as it will help enhance my 
 
 
 
-You can reach me here <outlandico@gmail.com> to collaborate!
+You can [email](outlandico@gmail.com) to collaborate!
 
 
-## code-102
+## Code 102 - Intro to Software Development
 
 - [Class 01](code-102/code-102-class-01.md)
 - [Class 02](code-102/code-102-class-02.md)
@@ -31,3 +30,14 @@ You can reach me here <outlandico@gmail.com> to collaborate!
 - [Class 06](code-102/code-102-class-06.md)
 - [Class 07](code-102/code-102-class-07.md)
 - [Class 08](code-102/code-102-class-08.md)
+
+## Code 102 - Intro to Software Development
+  
+## Code 201 - Foundations of Software Development
+  
+## Code 301 - Intermediate Software Development
+  
+## Code 401 - Advanced Software Development
+
+## Things I want to know more about
+>>>>>>> e96bd9978859e059a004c48037fc0a9d2852deb1
