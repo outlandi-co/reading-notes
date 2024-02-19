@@ -1,8 +1,8 @@
 # Growth Mindset
 
-## What is "*Growth Mindset*"? 
+## What is "*Growth Mindset*"?
 
-> In my personal opinion; it's what you have established in a mental and emotional stability. I think it is how you perceive yourself and as well as your situation with the intended destination along a path that will progress through time of successes and failures. It's the core of what and how you grow as you learn through the process. 
+> In my personal opinion; it's what you have established in a mental and emotional stability. I think it is how you perceive yourself and as well as your situation with the intended destination along a path that will progress through time of successes and failures. It's the core of what and how you grow as you learn through the process.
 
 1. **Vision**- to keep focus.
 1. **Commitment**- never giving up when the roadblocks or challenges come.
@@ -10,7 +10,7 @@
 Be sure to introduce yourself, and include a link to your GitHub portfolio page
 Stretch Goals
 
-My name is Adam Jimenez. I am a **U.S. Navy Veteran** and also have served in the **CA Army National Guard**. After I was Honarably discharged from both branches, I decided to go to Orange Coast College to pursue Graphic Design. I also have photography experience such as Macy's Fashion shows, weddings, portraits, as well as events and landscapes. 
+My name is Adam Jimenez. I am a **U.S. Navy Veteran** and also have served in the **CA Army National Guard**. After I was Honarably discharged from both branches, I decided to go to Orange Coast College to pursue Graphic Design. I also have photography experience such as Macy's Fashion shows, weddings, portraits, as well as events and landscapes.
 
 I had my own business printing apparel, canopies, business cards, table covers and glass etching promotional items for personal and businesses. I have shipped products all over the U.S. and some parts of Canada. It was a word of mouth and self promoting that allowed me to gain the notoriety from customers afar!
 
