@@ -1,5 +1,7 @@
 # Growth Mindset
-### What is "*Growth Mindset*"? 
+
+## What is "*Growth Mindset*"? 
+
 > In my personal opinion; it's what you have established in a mental and emotional stability. I think it is how you perceive yourself and as well as your situation with the intended destination along a path that will progress through time of successes and failures. It's the core of what and how you grow as you learn through the process. 
 
 1. **Vision**- to keep focus.
@@ -14,11 +16,7 @@ I had my own business printing apparel, canopies, business cards, table covers a
 
 I am highly interested in **Full-Stack Development** as it will help enhance my skill-set and vision I hold dear. I have the ambition, capability and determination to continue to spark interests of others that I can collaborate with. I enjoy being creative, outspoken and a bit artsy with my work! I am looking forward to working others as I progress in the field!
 
-
-
-
 You can [email](outlandico@gmail.com) to collaborate!
-
 
 ## Code 102 - Intro to Software Development
 
@@ -38,4 +36,3 @@ You can [email](outlandico@gmail.com) to collaborate!
 ## Code 401 - Advanced Software Development
 
 ## Things I want to know more about
->>>>>>> e96bd9978859e059a004c48037fc0a9d2852deb1
