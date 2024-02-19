@@ -18,8 +18,6 @@ I am highly interested in **Full-Stack Development** as it will help enhance my 
 
 You can [email](outlandico@gmail.com) to collaborate!
 
-## Code 102 - Intro to Software Development
-
 - [Class 01](code-102/code-102-class-01.md)
 - [Class 02](code-102/code-102-class-02.md)
 - [Class 03](code-102/code-102-class-03.md)
