@@ -30,8 +30,6 @@ You can [email](outlandico@gmail.com) to collaborate!
 - [Class 06](code-102/code-102-class-06.md)
 - [Class 07](code-102/code-102-class-07.md)
 - [Class 08](code-102/code-102-class-08.md)
-
-## Code 102 - Intro to Software Development
   
 ## Code 201 - Foundations of Software Development
   
