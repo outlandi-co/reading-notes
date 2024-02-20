@@ -1,20 +1,32 @@
 # Reading Assignment 01
 
+- [Section 1](#section-01)
+
+- [Section 2](#section-02)
+
+- [Section 3](#section-03)
+
+## Section-01
+
 Compose a short poem describing how HTTP sends data between computers
+
+## Section-02
 
 One day, a client came to the internet cafe and asked for the menu…
 The server responded, “Sure thing!”. As the client looked it over, the server asked, “what will it do?”.
 The client responded, “I’ll take some of your assets and please don’t keep me waiting!”
 
-* Describe how HTML, CSS, and JS files are “parsed” in the browser.
+## Section-03
+
+*Describe how HTML, CSS, and JS files are “parsed” in the browser.
 
 The html, is the structure of any website in which is in out in the public. It is like the keel or form of foundation that is established. The CSS(Cascading Style Sheet), is the cosmetic of the html and it decorates it! The Java Script comes along and brings the functionality of it. It is the mechanism that makes the website go from static to interactive with the user’s input when prompted.
 
-* How can you find images to add to a Website?
+*How can you find images to add to a Website?
 
 To find images, they can either be searched on web browsers through search bars, websites such as (Shutterstock,Adobe Stock, Getty Images, Unsplash, Pexels, Pixaby), your own photography, free image libraries like(Free Images, Stock Snap, Bursty by Shopify, Gratisography), Google Images with Usage Rights Filter, Icon and Vector Websites, your own graphic design software or apps,  and paid photography services.
 
-* How do you create a String vs a Number in JavaScript?
+*How do you create a String vs a Number in JavaScript?
 
 The keyword difference between a string and a number is: DATA Types.
 
@@ -28,7 +40,7 @@ Numbers are used for mathematical calculations, counting, measurements, and more
 Examples of numbers: 42, 3.14, -10, etc.
 Operations on numbers typically involve arithmetic operations such as addition, subtraction, multiplication, division, etc.Strings represent textual data enclosed within quotes, while numbers represent numerical data for arithmetic operations and calculations. It's important to distinguish between them, as they have different behaviors and purposes in programming.
 
-* What is a Variable and why are they important in JavaScript.
+*What is a Variable and why are they important in JavaScript.
 
  A variable is a container for storing data values. Variables are used to store various types of data, such as numbers, strings, objects, arrays, functions, and more. They play a crucial role in programming because they allow developers to store and manipulate data dynamically within their programs.
 Here are some key aspects of variables in JavaScript and why they are important:
@@ -43,11 +55,11 @@ keyword is used to declare a variable. In modern JavaScript, let is preferred ov
 The variable name (e.g., age, name, isStudent) is followed by an assignment operator (=), which assigns a value to the variable.
 The value assigned to the variable can be of any data type: number, string, boolean, array, object, or function.
 
-* Read the beginning of Getting Started with HTML Start from the
+*Read the beginning of Getting Started with HTML Start from the
 
   beginning and read through section “Anatomy of an HTML document”.
 
-* What is an HTML attribute?
+*What is an HTML attribute?
 
  In HTML, attributes are additional properties that can be added to HTML elements to provide additional information about those elements. Attributes are always specified in the opening tag of an HTML element and are written as name-value pairs, where the name is the attribute name and the value is the attribute value.
 
