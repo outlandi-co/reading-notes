@@ -1,38 +1,43 @@
-Compose a short poem describing how HTTP sends data between computers.
-Describe how HTML, CSS, and JS files are “parsed” in the browser.
-How can you find images to add to a Website?
-How do you create a String vs a Number in JavaScript?
-What is a Variable and why are they important in JavaScript?
-Introduction to HTML
-Read the beginning of Getting Started with HTML. Start from the beginning and read through section “Anatomy of an HTML document”.
-HTML Document Structure.
-Metadata in HTML.
+# Reading Assignment 01
 
-# What is an HTML attribute?
+Compose a short poem describing how HTTP sends data between computers
 
-# Describe the Anatomy of an HTMl element.
+* Describe how HTML, CSS, and JS files are “parsed” in the browser
 
-# What is the Difference between <article> and <section> element tags?
+* How can you find images to add to a Website
 
-# What Elements does a “typical” website include?
+* How do you create a String vs a Number in JavaScript
 
-# How does metadata influence Search Engine Optimization?
+* What is a Variable and why are they important in JavaScript.
 
-# How is the <meta> HTML tag used when specifying metadata?
+* Read the beginning of Getting Started with HTML Start from the
 
-# How to start to design a Website?
+  beginning and read through section “Anatomy of an HTML document”.
 
-# What is the first step to designing a Website?
+* What is an HTML attribute?
 
-# What is the most important question to answer when designing a Website?
+Describe the Anatomy of an HTMl element.
 
-# Why should you use an <h1> element over a <span> element to display a top level heading?
+What is the Difference between article and section element tags?
 
-# What are the benefits of using semantic tags in our HTML?
+What Elements does a “typical” website include?
 
-# What is JavaScript?
+How does metadata influence Search Engine Optimization?
 
-# Describe 2 things that require JavaScript in the Browser?
+How is the meta HTML tag used when specifying metadata?
 
-# How can you add JavaScript to an HTML document?
+How to start to design a Website?
 
+What is the first step to designing a Website?
+
+What is the most important question to answer when designing a Website?
+
+Why should you use an h1 element over a span element to display a top level heading?
+
+What are the benefits of using semantic tags in our HTML?
+
+What is JavaScript?
+
+Describe 2 things that require JavaScript in the Browser?
+
+How can you add JavaScript to an HTML document?
