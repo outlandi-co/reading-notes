@@ -30,6 +30,8 @@ You can [email](outlandico@gmail.com) to collaborate!
 ## Code 201 - Foundations of Software Development
 
 - [Class 01](code-201/code-201-class-01.md)
+- [Class 02](code-201/code-201-class-02.md)
+- [Class 03](code-201/code-201-class-03.md)
   
 ## Code 301 - Intermediate Software Development
   
