@@ -1,6 +1,6 @@
 # Reading Assignment 02
 
-Why is it important to use semantic elements in our HTML?
+## Why is it important to use semantic elements in our HTML?
 
 Using semantic elements in HTML is important for several reasons:
 
@@ -14,11 +14,11 @@ Using semantic elements in HTML is important for several reasons:
 
 5. **Future-proofing:** Semantic elements are part of the HTML standard and are less likely to become outdated or deprecated compared to non-semantic elements or custom attributes. Using semantic HTML helps future-proof the codebase against changes in web standards and browser behavior.
 
-How many levels of headings are there in HTML?
+## How many levels of headings are there in HTML?
 
 HTML provides six levels of headings, from `<h1>` to `<h6>`. These elements are used to define the hierarchical structure of a document, with `<h1>` representing the most important heading and `<h6>` representing the least important heading.
 
-What are some uses for the sup and sub elements?
+## What are some uses for the sup and sub elements?
 The `<sup>` and `<sub>` elements in HTML are used to denote superscript and subscript text, respectively. Here are some common use cases for each:
 
 - **sup (Superscript):**
@@ -34,11 +34,11 @@ The `<sup>` and `<sub>` elements in HTML are used to denote superscript and subs
   4. Noting component indices in technical or scientific writing.
 These elements are useful for maintaining proper typographic conventions and enhancing readability in various contexts.
 
-When using the abbr element, what attribute must be added to provide the full expansion of the term?
+## When using the abbr element, what attribute must be added to provide the full expansion of the term?
 
 When using the `<abbr>` element in HTML, the `title` attribute must be added to provide the full expansion or explanation of the abbreviation. The `title` attribute contains the full text or description of the abbreviation, which is typically displayed as a tooltip when the user hovers over the abbreviated term. This helps improve accessibility and provides additional context for users who may not be familiar with the abbreviation.
 
-Why should we avoid using inline styles?
+## Why should we avoid using inline styles?
 It's generally recommended to avoid using inline styles for the following reasons:
 
 1. **Maintainability:** Inline styles make it harder to maintain and update the styling of a webpage because the CSS rules are scattered throughout the HTML markup. This can lead to code duplication and inconsistencies, especially in larger projects.
@@ -53,15 +53,15 @@ It's generally recommended to avoid using inline styles for the following reason
 
 Overall, using external or internal stylesheets allows for better organization, maintainability, and scalability of the CSS codebase, leading to a more efficient and consistent web development process.
 
-1. What is representing the selector?
+1. ## What is representing the selector?
 Selector: The selector in this code is h2. It selects all h2 elements in the HTML document.
-2. Which components are the CSS declarations?
+2. ## Which components are the CSS declarations?
 
 CSS Declarations: Each line within the curly braces {} represents a CSS declaration. In this code, there are two CSS declarations:
 color: black;
 padding: 5px;
 
-3.Which components are considered properties?
+3.## Which components are considered properties?
 
 Properties: The properties in CSS declarations are the attributes that you want to apply to the selected elements. In this code, the properties are:
 color: Sets the text color of the selected h2 elements to black.
@@ -71,11 +71,11 @@ The selector (h2) determines which elements the styles will be applied to.
 The CSS declarations (color: black; and padding: 5px;) specify the styles to be applied to those selected elements.
 The properties (color and padding) are the attributes being styled, such as text color or padding.
 
-What data type is a sequence of text enclosed in single quote marks?
+## What data type is a sequence of text enclosed in single quote marks?
 
 A sequence of text enclosed in single quote marks (') is typically considered a string data type. In many programming languages, including JavaScript, Python, and others, single quotes (or double quotes " as well) are used to delimit string literals. Strings are used to represent text data, and they can contain any combination of letters, numbers, symbols, and whitespace characters.
 
-List 4 types of JavaScript operators.
+## List 4 types of JavaScript operators.
 
 1. Arithmetic Operators: These operators perform arithmetic operations on numeric operands. They include addition (+), subtraction (-), multiplication (*), division (/), and modulo (%) for finding the remainder of a division.
 
@@ -85,17 +85,17 @@ List 4 types of JavaScript operators.
 
 4. Assignment Operators: These operators are used to assign values to variables. They include simple assignment (=), as well as compound assignment operators such as addition assignment (+=), subtraction assignment (-=), and others.
 
-Describe a real world Problem you could solve with a Function.
+## Describe a real world Problem you could solve with a Function.
 
-An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+## An if statement checks a __ and if it evaluates to ___, then the code block will execute.
 
 An if statement checks a condition, and if it evaluates to true, then the code block will execute.
 
-What is the use of an else if?
+## What is the use of an else if?
 
 The else if statement is used in JavaScript to add additional conditions to an if statement. It allows you to specify alternative conditions to check if the initial if condition evaluates to false.
 
-List 3 different types of comparison operators.
+## List 3 different types of comparison operators.
 
 Equality Operators (== and ===):
 ==: Checks if two values are equal, but performs type coercion if the operands have different types.
@@ -111,7 +111,7 @@ Relational Operators (<, <=, >, >=):
 
 These operators are used to compare values and determine the relationship between them, which is often used in conditional statements and expressions in JavaScript programs.
 
-What is the difference between the logical operator && and ||?
+## What is the difference between the logical operator && and ||?
 
 The logical operators && (logical AND) and || (logical OR) are used to perform logical operations on Boolean operands in JavaScript. Here's the difference between them:
 1.Logical AND (&&):
