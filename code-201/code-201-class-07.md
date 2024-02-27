@@ -10,7 +10,7 @@ Here are several reasons why domain modeling is essential:
 Understanding the Problem Domain: Domain modeling helps developers and stakeholders understand the problem domain better. By analyzing the domain and identifying its key concepts and relationships, developers can gain insights into the requirements and constraints that need to be addressed in the software solution.
 Communication: Domain models serve as a communication tool between different stakeholders, including developers, domain experts, project managers, and clients. They provide a common language and visual representation that facilitates effective communication and ensures that everyone involved has a shared understanding of the problem domain.
 
-* Identifying Requirements: Through domain modeling, developers can identify and clarify the requirements of the 
+* Identifying Requirements: Through domain modeling, developers can identify and clarify the requirements of the
 system. By capturing the entities, attributes, and relationships within the domain, developers can ensure that the software solution adequately addresses the needs of the users and stakeholders.
 
 * Guiding Design Decisions: Domain models can guide design decisions by highlighting important concepts and relationships within the domain. They help developers make informed decisions about the structure, architecture, and behavior of the software system.
@@ -39,40 +39,40 @@ Responsive Design: Tables do not lend themselves well to responsive web design, 
 * Separation of Concerns: Using tables for layout violates the principle of separation of concerns, which advocates for separating the structure (HTML), presentation (CSS), and behavior (JavaScript) of a web page. CSS-based layouts allow for better separation of concerns, making it easier to maintain and update the codebase.
 In modern web development, CSS (Cascading Style Sheets) provides powerful layout capabilities through techniques like Flexbox and Grid layout, which offer more flexibility, maintainability, and accessibility compared to using tables. Therefore, it is recommended to avoid using tables for page layouts and instead utilize CSS for styling and layout purposes.
 
-## 2. List and describe 3 different semantic HTML elements used in an HTML <table>.
+## 2. List and describe 3 different semantic HTML elements used in an HTML table
 
-Semantic HTML elements help provide meaning and structure to the content of a webpage, making it more accessible and understandable for both users and machines. In the context of an HTML <table>, here are three semantic HTML elements commonly used:
+Semantic HTML elements help provide meaning and structure to the content of a webpage, making it more accessible and understandable for both users and machines. In the context of an HTML table, here are three semantic HTML elements commonly used:
 
-* <thead> (Table Header):
+* thead (Table Header):
 
-The <thead> element defines the header section of a table, typically containing column headings.
-It groups together the header rows (<tr>) of the table for better organization and semantic clarity.
+The thead element defines the header section of a table, typically containing column headings.
+It groups together the header rows (tr) of the table for better organization and semantic clarity.
 Example:
 
 * html
 
 * Copy code
 
-* <tbody> (Table Body):
+* tbody (Table Body):
 
-The <tbody> element represents the main content of the table, containing rows of data.
-It groups together the body rows (<tr>) of the table, separating them from the header and footer sections.
+The tbody element represents the main content of the table, containing rows of data.
+It groups together the body rows (tr) of the table, separating them from the header and footer sections.
 Example:
 
 * html
 * Copy code
 
-<tfoot> (Table Footer):
+tfoot (Table Footer):
 
-The <tfoot> element defines the footer section of a table, typically containing summary information or totals.
-It groups together the footer rows (<tr>) of the table, often used for displaying aggregate data or additional notes.
+The tfoot element defines the footer section of a table, typically containing summary information or totals.
+It groups together the footer rows (tr) of the table, often used for displaying aggregate data or additional notes.
 Example:
 
 * html
 
 * Copy code
 
-Using these semantic HTML elements in conjunction with <table>, <tr>, and <th> or <td> elements helps improve the accessibility and structure of tabular data on web pages, making it easier for both humans and machines to understand the content and its organization.
+Using these semantic HTML elements in conjunction with table, tr, and th or td elements helps improve the accessibility and structure of tabular data on web pages, making it easier for both humans and machines to understand the content and its organization.
 
 Introducing Constructors
 
@@ -89,7 +89,7 @@ Automatic Invocation: Constructors are automatically called when an object is in
 * Overloading: Some programming languages support constructor overloading, which means you can define multiple constructors with different parameter lists. This allows for flexibility in object initialization.
 Implicit and Explicit Invocation: Constructors can be implicitly called when an object is created using the new keyword. They can also be explicitly called within other constructors, allowing for code reuse and initialization chaining.
 
-### Advantages of using constructors include:
+### Advantages of using constructors include
 
 * Initialization: Constructors ensure that newly created objects are properly initialized, avoiding the need for separate initialization methods and reducing the risk of using objects in an inconsistent state.
 Encapsulation: Constructors encapsulate the initialization logic within the class, making it easier to maintain and understand the code by keeping related operations together.
@@ -130,6 +130,5 @@ In summary, in the context of my military experience:
 Prototypes are analogous to the standard operating procedures and regulations that establish the framework and guidelines for how tasks are performed in the Navy.
 Inheritance is akin to sailors inheriting roles, responsibilities, and ranks within the organization. Each role (subclass) builds upon the responsibilities of the previous one (superclass), while also introducing its own specialized knowledge, skills, and authority.
 Just as adherence to SOPs ensures uniformity and efficiency in the Navy, the use of prototypes and inheritance in programming promotes code consistency, reuse, and scalability in software development.
-
 
 NOTE: This is a very common front end developer interview question
