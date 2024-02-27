@@ -1,4 +1,4 @@
-# Reading Assignment 05
+# Reading Assignment 06
 
 Reading
 JavaScript Object Basics
