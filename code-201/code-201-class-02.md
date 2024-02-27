@@ -19,6 +19,7 @@ Using semantic elements in HTML is important for several reasons:
 HTML provides six levels of headings, from `<h1>` to `<h6>`. These elements are used to define the hierarchical structure of a document, with `<h1>` representing the most important heading and `<h6>` representing the least important heading.
 
 ## What are some uses for the sup and sub elements?
+
 The `<sup>` and `<sub>` elements in HTML are used to denote superscript and subscript text, respectively. Here are some common use cases for each:
 
 - **sup (Superscript):**
@@ -39,6 +40,7 @@ These elements are useful for maintaining proper typographic conventions and enh
 When using the `<abbr>` element in HTML, the `title` attribute must be added to provide the full expansion or explanation of the abbreviation. The `title` attribute contains the full text or description of the abbreviation, which is typically displayed as a tooltip when the user hovers over the abbreviated term. This helps improve accessibility and provides additional context for users who may not be familiar with the abbreviation.
 
 ## Why should we avoid using inline styles?
+
 It's generally recommended to avoid using inline styles for the following reasons:
 
 1. **Maintainability:** Inline styles make it harder to maintain and update the styling of a webpage because the CSS rules are scattered throughout the HTML markup. This can lead to code duplication and inconsistencies, especially in larger projects.
@@ -54,6 +56,7 @@ It's generally recommended to avoid using inline styles for the following reason
 Overall, using external or internal stylesheets allows for better organization, maintainability, and scalability of the CSS codebase, leading to a more efficient and consistent web development process.
 
 1. ## What is representing the selector?
+
 Selector: The selector in this code is h2. It selects all h2 elements in the HTML document.
 2. ## Which components are the CSS declarations?
 
@@ -75,7 +78,7 @@ The properties (color and padding) are the attributes being styled, such as text
 
 A sequence of text enclosed in single quote marks (') is typically considered a string data type. In many programming languages, including JavaScript, Python, and others, single quotes (or double quotes " as well) are used to delimit string literals. Strings are used to represent text data, and they can contain any combination of letters, numbers, symbols, and whitespace characters.
 
-## List 4 types of JavaScript operators.
+## List 4 types of JavaScript operators
 
 1. Arithmetic Operators: These operators perform arithmetic operations on numeric operands. They include addition (+), subtraction (-), multiplication (*), division (/), and modulo (%) for finding the remainder of a division.
 
@@ -85,9 +88,9 @@ A sequence of text enclosed in single quote marks (') is typically considered a 
 
 4. Assignment Operators: These operators are used to assign values to variables. They include simple assignment (=), as well as compound assignment operators such as addition assignment (+=), subtraction assignment (-=), and others.
 
-## Describe a real world Problem you could solve with a Function.
+## Describe a real world Problem you could solve with a Function
 
-## An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+## An if statement checks a __ and if it evaluates to ___, then the code block will execute
 
 An if statement checks a condition, and if it evaluates to true, then the code block will execute.
 
@@ -95,7 +98,7 @@ An if statement checks a condition, and if it evaluates to true, then the code b
 
 The else if statement is used in JavaScript to add additional conditions to an if statement. It allows you to specify alternative conditions to check if the initial if condition evaluates to false.
 
-## List 3 different types of comparison operators.
+## List 3 different types of comparison operators
 
 Equality Operators (== and ===):
 ==: Checks if two values are equal, but performs type coercion if the operands have different types.
