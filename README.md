@@ -39,6 +39,7 @@ You can [email](outlandico@gmail.com) to collaborate!
 - [Class 08](code-201/code-201-class-08.md)
 - [Class 09](code-201/code-201-class-09.md)
 - [Class 10](code-201/code-201-class-10.md)
+- [Class 11](code-201/code-201-class-11.md)
 
 ## Code 301 - Intermediate Software Development
   
