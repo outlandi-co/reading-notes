@@ -45,6 +45,8 @@ You can [email](outlandico@gmail.com) to collaborate!
 - [Class 14](code-201/code-201-class-14.md)
 
 ## Code 301 - Intermediate Software Development
+
+- [Class 01](code-201/code-301-class-01.md)
   
 ## Code 401 - Advanced Software Development
 
