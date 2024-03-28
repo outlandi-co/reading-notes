@@ -49,6 +49,7 @@ You can [email](outlandico@gmail.com) to collaborate!
 - [Class 01](code-301/code-301-class-01.md)
 - [Class 02](code-301/code-301-class-02.md)
 - [Class 03](code-301/code-301-class-03.md)
+- [Class 04](code-301/code-301-class-04.md)
 
 ## Code 401 - Advanced Software Development
 
