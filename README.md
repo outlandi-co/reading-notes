@@ -46,8 +46,6 @@ You can [email](outlandico@gmail.com) to collaborate!
 
 ## Code 301 - Intermediate Software Development
 
-reading-notes_working_file
-
 - [Class 01](code-301/code-301-class-01.md)
 - [Class 02](code-301/code-301-class-02.md)
 - [Class 03](code-301/code-301-class-03.md)
