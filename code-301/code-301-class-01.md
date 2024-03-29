@@ -64,14 +64,18 @@ In React, props flow in a unidirectional manner, from parent components to child
 Here’s the typical flow of props in React:
 
 Parent Component: Props are defined and passed from a parent component when rendering its child components.
+
 Child Component: Props are received and accessed by the child component, allowing it to use the data passed from the parent component.
-Child-to-Child Communication: If necessary, props can also be passed from a parent component to its nested child components, creating a hierarchical flow of data.
+
+Child-to-Child Communication: If necessary, props can also be passed from a parent component to its nested child components, creating a hierarchical flow of data
+
 =======
-### 1. What is a “component”?
+
+## 1.What is a “component”?
 
 A "component" in software engineering refers to a modular, reusable, and self-contained unit of software that encapsulates a specific functionality or behavior within a larger system. Components are typically designed to interact with other components through well-defined interfaces, allowing for easy integration and composition to build complex systems.
 
-### 2. What are the characteristics of a component?
+### 2.What are the characteristics of a component?
 
 The characteristics of a component include:
 
@@ -87,7 +91,7 @@ The characteristics of a component include:
 
 6. **Independence**: Components should ideally be independent of each other, allowing for easier maintenance, testing, and upgrades without affecting other parts of the system.
 
-### 3. What are the advantages of using component-based architecture?
+### 3.What are the advantages of using component-based architecture?
 
 The advantages of using a component-based architecture include:
 
@@ -107,7 +111,6 @@ The advantages of using a component-based architecture include:
 
 Overall, component-based architectures promote better code organization, reuse, and maintainability, leading to more efficient and robust software systems.
 
-
 ### 1. What is “props” short for?
 
 In React, "props" is short for "properties". Props are a mechanism for passing data from a parent component to a child component. They are immutable and are used to customize or configure a component's behavior and appearance.
@@ -122,7 +125,7 @@ Props are passed to components as attributes in JSX and are accessed within the 
 <MyComponent name="John" age={30} />
 ```
 
-2. **Accessing Props**: Inside the component, props are accessed through the `props` object. For example:
+2.**Accessing Props**: Inside the component, props are accessed through the `props` object. For example:
 
 ```jsx
 function MyComponent(props) {
@@ -130,7 +133,7 @@ function MyComponent(props) {
 }
 ```
 
-3. **Using Props**: Once props are passed to a component, they can be used to dynamically render content or configure the behavior of the component. For example, you can use props to customize the appearance of a component or conditionally render certain elements based on the props passed to it.
+3.**Using Props**: Once props are passed to a component, they can be used to dynamically render content or configure the behavior of the component. For example, you can use props to customize the appearance of a component or conditionally render certain elements based on the props passed to it.
 
 ### 3. What is the flow of props?
 

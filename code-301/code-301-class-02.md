@@ -19,24 +19,25 @@ So, `componentDidMount` happens after `render`. It's a good place for operations
 
 ## 2. What is the very first thing to happen in the lifecycle of React?
 
-In the lifecycle of a React component, the very first thing to happen is the initialization of the component. This involves the construction of the component instance. During this phase, the constructor of the component is called. 
+In the lifecycle of a React component, the very first thing to happen is the initialization of the component. This involves the construction of the component instance. During this phase, the constructor of the component is called.
 The constructor is where you typically initialize state, bind event handlers, and perform other setup operations. It's important to note that you should avoid side effects in the constructor, as it's meant for initialization purposes.
 So, in summary, the initialization phase, including the invocation of the constructor, is the very first thing to happen in the lifecycle of a React component.
 
 ## 3. Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates
 
 The correct order of the React lifecycle methods and events is as follows:
+
 1. **Constructor**: This is the first method called when a component is initialized. It is used for initializing state and binding event handlers 
 2. **Render**: The `render` method is called after the constructor. It returns the JSX (or elements) to be rendered to the DOM.
 3. **React Updates**: This happens after the initial render and includes updates to the component's state or props, triggering a re-render of the component.
 4. **ComponentDidMount**: This method is called after the component has been mounted onto the DOM. It's invoked once after the initial render and is used for performing operations that require access to the DOM or for setting up subscriptions or timers.
 5. **ComponentWillUnmount**: This method is called just before a component is unmounted and destroyed. It's used for cleanup operations such as removing event listeners or cancelling timers to prevent memory leaks.
 So, the correct order is:
-1. Constructor
-2. Render
-3. React Updates
-4. ComponentDidMount
-5. ComponentWillUnmount
+1.Constructor
+2.Render
+3.React Updates
+4.ComponentDidMount
+5.ComponentWillUnmount
 
 ## 4. What does componentDidMount do?
 
@@ -50,7 +51,8 @@ Overall, `componentDidMount` provides a convenient hook for performing actions t
 
 Videos
 React State Vs Props
-## 1. What types of things can you pass in the props?
+
+## 1.What types of things can you pass in the props?
 
 In React, props (short for "properties") are used to pass data from a parent component to a child component. Props can be of various types, including:
 
@@ -75,6 +77,7 @@ Overall, props in React provide a flexible mechanism for passing data and behavi
 ## 2. What is the big difference between props and state?
 
 The big difference between props and state in React lies in how they are used and where they are managed:
+
 1. **Props (Properties)**:
    - Props are used to pass data from a parent component to a child component.
    - They are immutable and read-only within the child component.
@@ -94,7 +97,9 @@ In summary, the key differences between props and state are that props are passe
 ## 3. When do we re-render our application?
 
 In React, the re-rendering of the application occurs under certain conditions, typically triggered by changes in component state or props. Here are the main scenarios when a re-render may occur:
+
 1. **State Changes**: When the `setState` method is called within a component, React will re-render that component and its child components to reflect the updated state.
+
 2. **Props Changes**: When a parent component passes new props to a child component, React will re-render the child component to reflect the changes in props.
 3. **Force Update**: In some cases, you might explicitly call the `forceUpdate` method on a component, which will cause it to re-render, bypassing the usual checks for state and props changes.
 4. **Context Changes**: If a component is consuming context using the `useContext` hook or the `Context.Consumer` component, and the context value changes, React will re-render the component and its children to reflect the new context value.
