@@ -1,8 +1,13 @@
 Reading
+
 How to use Forms in React
+
 ## 1. What is a ‘Controlled Component’?
+
 A "controlled component" is a concept primarily used in React, a JavaScript library for building user interfaces. In React, form elements such as input fields, checkboxes, and select dropdowns typically maintain their state internally. However, with controlled components, the state of these form elements is controlled by React, meaning their current state is stored in the component's state and updated through its properties.
+
 1. **State is Controlled by React**: Instead of letting the DOM elements handle and maintain their state, React controls the state of these form elements.
+
 2. **State is Managed in Component State**: The current value of the form element (such as the text in an input field or the selected option in a dropdown) is stored in the component's state.
 3. **State Changes Through Event Handlers**: When a user interacts with a controlled component (e.g., typing in an input field or selecting an option), React updates the component's state accordingly through event handlers.
 4. **Single Source of Truth**: With controlled components, there's a single source of truth for the state of the form elements, making it easier to manage and synchronize their values across different parts of the application.
