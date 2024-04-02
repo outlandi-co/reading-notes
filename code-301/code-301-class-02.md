@@ -16,6 +16,55 @@ In the lifecycle of a React component, the very first thing to happen is the ini
 3. Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates
 The correct order of the React lifecycle methods and events is as follows:
 
+
+1. **Constructor**: This is the first method called when a component is initialized. It is used for initializing state and binding event handlers
+2. **Render**: The `render` method is called after the constructor. It returns the JSX (or elements) to be rendered to the DOM.
+3. **React Updates**: This happens after the initial render and includes updates to the component's state or props, triggering a re-render of the component.
+4. **ComponentDidMount**: This method is called after the component has been mounted onto the DOM. It's invoked once after the initial render and is used for performing operations that require access to the DOM or for setting up subscriptions or timers.
+5. **ComponentWillUnmount**: This method is called just before a component is unmounted and destroyed. It's used for cleanup operations such as removing event listeners or cancelling timers to prevent memory leaks.
+So, the correct order is:
+1.Constructor
+2.Render
+3.React Updates
+4.ComponentDidMount
+5.ComponentWillUnmount
+
+## 4. What does componentDidMount do?
+
+The `componentDidMount` lifecycle method is a method provided by React that is called after a component has been mounted onto the DOM (Document Object Model). It's invoked once, immediately after the initial rendering of the component.
+Here's what `componentDidMount` is typically used for:
+
+1. **DOM Manipulation**: Since `componentDidMount` is called after the component is rendered and mounted onto the DOM, it's a suitable place to perform any DOM manipulation tasks, such as interacting with the browser's APIs, accessing DOM elements, or setting up third-party libraries that need access to the DOM.
+2. **Data Fetching**: It's common to fetch data from APIs or perform other asynchronous operations in `componentDidMount`. Since it's called after the component is rendered, it's safe to fetch data and update the component's state based on that data.
+3. **Subscriptions and Event Listeners**: `componentDidMount` is also a good place to set up subscriptions to external data sources, such as web sockets, or to add event listeners to the window or document.
+Overall, `componentDidMount` provides a convenient hook for performing actions that need to happen after the component is rendered for the first time and after it has been mounted onto the DOM.
+
+Videos
+React State Vs Props
+
+## 1.What types of things can you pass in the props?
+
+In React, props (short for "properties") are used to pass data from a parent component to a child component. Props can be of various types, including:
+
+1. **Primitive Data Types**: You can pass primitive data types such as strings, numbers, booleans, and symbols as props. For example:
+   < ChildComponent name="John" age={25} isActive={true} />
+2. **Functions**: You can pass functions as props. This is useful for allowing child components to communicate with their parent components by invoking functions passed down as props. For example:
+   < ChildComponent onClick={handleClick} />
+3. **Objects**: You can pass objects as props, allowing you to pass complex data structures from a parent component to a child component. For example:
+   const person = { name: 'John', age: 25 };
+   < ChildComponent person={person} />
+4. **Arrays**: You can pass arrays as props, enabling you to pass lists of items from a parent component to a child component. For example:
+      const numbers = [1, 2, 3, 4, 5];
+   < ChildComponent numbers={numbers} />
+5. **React Elements**: You can pass React elements (components) as props. This allows you to compose your UI by nesting components within each other. For example:
+   < ParentComponent>
+     < ChildComponent />
+   </ParentComponent>
+  6.**Callback Functions**: You can pass callback functions as props, allowing child components to communicate with their parent components by invoking these functions. For example:
+   < ChildComponent onChange={handleChange} />
+Overall, props in React provide a flexible mechanism for passing data and behavior between components in a React application.
+
+## 2. What is the big difference between props and state?
 Constructor: This is the first method called when a component is initialized. It is used for initializing state and binding event handlers
 Render: The render method is called after the constructor. It returns the JSX (or elements) to be rendered to the DOM.
 React Updates: This happens after the initial render and includes updates to the component’s state or props, triggering a re-render of the component.
@@ -46,6 +95,7 @@ Callback Functions: You can pass callback functions as props, allowing child com
 <ChildComponent onChange={handleChange} /> Overall, props in React provide a flexible mechanism for passing data and behavior between components in a React application.
 
 2. What is the big difference between props and state?
+
 The big difference between props and state in React lies in how they are used and where they are managed:
 
 Props (Properties):
