@@ -1,6 +1,6 @@
 reading-notes
 Reading-Notes
-React Docs - lists and keys{:target=”_blank”}
+React Docs - lists and keys){:target=”_blank”}
 
 1. What does .map() return?
 In many programming languages, including JavaScript, the .map() function is used to iterate over an array and transform each element in the array using a provided function.
@@ -59,7 +59,7 @@ In the example I provided earlier:
 ))}
 The key prop is assigned the value of the index, which works as a simple and quick solution for uniquely identifying each list item in the absence of a dedicated unique identifier. However, if your fruits array has items with unique identifiers, it’s better to use those instead of array indices for keys.
 
-4.What is the purpose of a key?
+4. What is the purpose of a key?
 The purpose of a key in React is to help React identify each element uniquely in a list of elements. When rendering lists, React uses these key props to efficiently update the UI by identifying which items have changed, been added, or been removed.
 
 The main reasons for using key props are:
@@ -91,35 +91,36 @@ Improving performance: Using keys allows React to efficiently update the DOM, re
 
 In summary, the key prop in React is essential for optimizing list rendering performance, ensuring element identity, and maintaining a stable reference to elements in dynamic lists.
 
-2.List 4 things that the spread operator can do
+2. List 4 things that the spread operator can do
 The spread operator (...) in JavaScript is a versatile tool that can be used for various tasks. Here are four common uses of the spread operator:
 
 Expanding Arrays: You can use the spread operator to expand elements of an array into another array. This is often used to concatenate arrays or create copies of arrays.
 
  const array1 = [1, 2, 3];
  const array2 = [4, 5, 6];
-
+    
  const concatenatedArray = [...array1, ...array2]; // [1, 2, 3, 4, 5, 6]
 Copying Objects: The spread operator can also be used to create shallow copies of objects. This is useful for creating new objects with the same properties as existing objects without mutating the original object.
 
  const originalObject = { name: 'John', age: 30 };
-
+    
  const copyObject = { ...originalObject }; // { name: 'John', age: 30 }
 Passing Arguments: When calling functions, you can use the spread operator to pass an array of arguments as individual arguments to the function. This is commonly used when working with variadic functions or functions that accept a variable number of arguments.
 
  function sum(a, b, c) {
      return a + b + c;
  }
+    
  const numbers = [1, 2, 3];
  const result = sum(...numbers); // 6
 Cloning Arrays: The spread operator can be used to clone arrays, creating a new array with the same elements as the original array. This is similar to concatenating an empty array with the original array.
 
  const originalArray = [1, 2, 3];
-
+    
  const cloneArray = [...originalArray]; // [1, 2, 3]
 These are just a few examples of what the spread operator can do. It’s a powerful feature in JavaScript that can simplify many common programming tasks.
 
-3.Give an example of using the spread operator to combine two arrays
+3. Give an example of using the spread operator to combine two arrays
 Certainly! Here’s an example of using the spread operator (...) to combine two arrays:
 
 const array1 = [1, 2, 3];
