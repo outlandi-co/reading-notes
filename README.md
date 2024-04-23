@@ -64,4 +64,6 @@ You can [email](outlandico@gmail.com) to collaborate!
 
 ## Code 401 - Advanced Software Development
 
+- [Class 01](code-401/code-401-class-01.md)
+
 ## Things I want to know more about
