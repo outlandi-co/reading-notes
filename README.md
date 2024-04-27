@@ -105,6 +105,8 @@ You can [email](outlandico@gmail.com) to collaborate!
 
 ## Things I want to know more about
 
+- [Growth Mindset](prep/prep-growth-mindset.md.md)
+
 ### Bash Command Line Tutorials
 
 The Command Line - What is it, how does it work and how do I get to one.
