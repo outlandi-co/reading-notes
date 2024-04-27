@@ -105,7 +105,7 @@ You can [email](outlandico@gmail.com) to collaborate!
 
 ## Things I want to know more about
 
-- [Growth Mindset](Prep-Mindset/prep-growth-mindset.md)
+- [Growth Mindset](code-401/prep-growth-mindset.md)
 
 ### Bash Command Line Tutorials
 
