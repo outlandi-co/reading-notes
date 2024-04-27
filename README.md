@@ -16,6 +16,43 @@ I had my own business printing apparel, canopies, business cards, table covers a
 
 I am highly interested in **Full-Stack Development** as it will help enhance my skill-set and vision I hold dear. I have the ambition, capability and determination to continue to spark interests of others that I can collaborate with. I enjoy being creative, outspoken and a bit artsy with my work! I am looking forward to working others as I progress in the field!
 
+## Understanding of Relational Databases
+
+Relational databases are a type of database management system (DBMS) that organizes data into tables, where each table represents an entity, and each row represents a record of that entity. These tables are related to each other through common fields, allowing for the establishment of relationships between them.
+
+## Key Concepts
+
+Tables: Also known as relations, tables store data in rows and columns.
+Relationships: Relationships define how tables are related to each other, such as one-to-one, one-to-many, or many-to-many relationships.
+Normalization: Normalization is the process of organizing data to minimize redundancy and dependency, ensuring data integrity and efficiency.
+SQL (Structured Query Language): SQL is the standard language used to interact with relational databases. It consists of various commands and statements for querying, manipulating, and managing data.
+Understanding of SQL:
+
+SQL is a powerful language for managing relational databases. It allows users to perform a wide range of operations, including querying data, inserting new records, updating existing records, and deleting records.
+
+## Common SQL Commands
+
+SELECT: Retrieves data from one or more tables based on specified criteria.
+INSERT: Adds new records to a table.
+UPDATE: Modifies existing records in a table.
+DELETE: Removes records from a table.
+CREATE TABLE: Creates a new table with specified columns and constraints.
+ALTER TABLE: Modifies an existing table structure, such as adding or dropping columns.
+JOIN: Combines data from multiple tables based on a related column.
+Summary of Lessons:
+
+Through the lessons, we've gained a comprehensive understanding of relational databases and SQL. We've learned how to create and modify database tables, query data using SELECT statements, and perform CRUD operations (Create, Read, Update, Delete). Additionally, we've explored advanced SQL concepts such as joins and aggregation functions.
+
+## Challenges Faced
+
+While learning SQL, some challenges were encountered, particularly in understanding complex JOIN operations and writing efficient queries. However, with practice and perseverance, these challenges were overcome, leading to a deeper understanding of SQL fundamentals.
+
+## Conclusion
+
+Relational databases and SQL are fundamental components of modern data management systems. By mastering SQL, users can effectively manage and manipulate data, extract valuable insights, and make informed decisions based on data analysis. The lessons learned have provided a solid foundation for further exploration and application of relational databases and SQL in real-world scenarios.
+
+Feel free to use this summary as a basis for your reading notes repository. If you need further customization or have any specific requirements, let me know!
+
 You can [email](outlandico@gmail.com) to collaborate!
 
 - [Class 01](code-102/code-102-class-01.md)
