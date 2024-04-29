@@ -19,7 +19,8 @@ Describing Node.js as a "JavaScript runtime" essentially means that Node.js prov
 4.**Libraries and Modules**: Node.js comes with a rich set of built-in libraries (such as the `fs` module for file system operations) and a package manager called npm (Node Package Manager) that allows developers to easily install and use third-party libraries and modules in their JavaScript applications.
 In summary, describing Node.js as a "JavaScript runtime" highlights its role in providing an environment for executing JavaScript code on servers or computers outside of a web browser, along with its features for handling I/O operations efficiently and leveraging a vast ecosystem of libraries and modules for building various types of applications.
 
-What is Node used for?
+## What is Node used for?
+
 Node.js is used for a wide range of purposes in web development and beyond. Here are some common use cases:
 
 1.**Server-Side Web Development**: Node.js is commonly used to build server-side applications, APIs (Application Programming Interfaces), and web servers. It provides a platform for handling incoming HTTP requests, processing data, and generating dynamic content for web applications.
@@ -38,7 +39,8 @@ Looking ahead at this module’s course schedule, What do you look forward to le
 3.**CAP Interview Preparation**: Another essential aspect of the course is preparation for the CAP Interview. I'll delve into the CAP theorem, a fundamental concept in distributed systems and database design. Topics covered include consistency, availability, partition tolerance, distributed databases, replication, consistency models, and strategies for ensuring high availability and fault tolerance in distributed systems. This preparation equips me with the knowledge to understand the intricacies and trade-offs involved in designing and deploying distributed systems and databases.
 These areas of study will provide me with a strong foundation in database management, data visualization, and distributed systems, essential skills for my journey in web development and beyond. I'm looking forward to exploring these fascinating topics! If I have any questions or need further clarification during the course, I'll feel free to reach out.
 
-What are your learning goals after reading and reviewing the class README?
+## What are your learning goals after reading and reviewing the class README?
+
 My goals for this course are to gain a comprehensive understanding of application development within the Node.js ecosystem. Specifically, I aim to master the art of writing modular and maintainable code using CommonJS modules, ensuring code quality through Test-Driven Development (TDD) practices, and setting up Continuous Integration (CI) environments using GitHub Actions. By the end of the course, I aspire to confidently create and deploy Node.js applications, leveraging CI/CD pipelines to automate the deployment process and streamline my workflow.
 
 Additionally, I aim to deepen my understanding of the core concepts of Node.js, such as its runtime environment and the V8 Engine, and to apply this knowledge effectively in real-world scenarios. Ultimately, I hope to emerge from this course equipped with the skills and knowledge necessary to excel as a professional Node.js developer, capable of building robust and scalable web applications.
