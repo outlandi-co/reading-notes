@@ -107,6 +107,7 @@ You can [email](outlandico@gmail.com) to collaborate!
 - [Class 04](code-401/code-401-class-04.md)
 - [Class 06](code-401/code-401-class-06.md)
 - [Class 07](code-401/code-401-class-07.md)
+- [Class 08](code-401/code-401-class-08.md)
 
 ## Things I want to know more about
 
