@@ -116,4 +116,4 @@ You can [email](outlandico@gmail.com) to collaborate!
 
 - [Bash](code-401/bash.md)
 - [Growth Mindset](code-401/prep-growth-mindset.md)
-- [Trees](code-401/trees.md)
+- [Trees](trees.md)
