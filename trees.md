@@ -60,13 +60,6 @@ D   E
 7. **Breadth First Traversal**: Traversal method that explores nodes level by level, left to right.
 8. **Queue**: A data structure used to keep track of nodes during breadth first traversal.
 
-## Comment on a Classmate's Post
-
-**Classmate's Post:**
-"I learned about the depth first traversal methods in trees: pre-order, in-order, and post-order. Each method processes nodes in a different sequence, which can be useful for various applications."
-
-**My Comment:**
-"Great explanation! Depth first traversal is indeed very versatile. For instance, in-order traversal is particularly useful for binary search trees because it processes nodes in ascending order. Could you give an example of when pre-order or post-order traversal might be more advantageous than in-order?"
 
 ## Fill-in-the-Blank Worksheet
 
