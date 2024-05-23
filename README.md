@@ -114,6 +114,7 @@ You can [email](outlandico@gmail.com) to collaborate!
 - [Class 16](code-401/code-401-class-16.md)
 - [Class 17](code-401/code-401-class-17.md)
 - [Class 18](code-401/code-401-class-18.md)
+- [Class 19](code-401/code-401-class-19.md)
 
 ## Things I want to know more about
 
