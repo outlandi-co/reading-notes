@@ -116,9 +116,11 @@ You can [email](outlandico@gmail.com) to collaborate!
 - [Class 18](code-401/code-401-class-18.md)
 - [Class 19](code-401/code-401-class-19.md)
 - [Class 41](code-401/code-401-class-41.md)
+- [Class 42](code-401/code-401-class-42.md)
 
 ## Things I want to know more about
 
 - [Bash](code-401/bash.md)
 - [Growth Mindset](code-401/prep-growth-mindset.md)
 - [Trees](trees.md)
+# reading-notes
